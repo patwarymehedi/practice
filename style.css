@@ -8,6 +8,18 @@ h1{
 h2{
     font-size: 40px;
 }
+.navi-tab a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 40px;
+  }
+  
+.navitap-r{
+    float:right;
+}
 p{
     color:rgb(167, 5, 167);
 }
@@ -25,6 +37,8 @@ p{
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+    margin-top: 0%;
+    
 }
 section{
     height: 500px;
@@ -64,13 +78,13 @@ section{
     background-color: white;
 }
 .Full-stack{
-     border-left: 5px solid blue;
+     border-left: 5px solid ;
      border-image: linear-gradient(180deg,blue, cyan);
      border-image-slice: 1;
 
 }
 .noob{
-    border-left: 5px solid tomato;
+    border-left: 5px solid;
     border-image:linear-gradient(180deg,tomato,red);
     border-image-slice: 1;
 
